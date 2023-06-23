@@ -31,10 +31,10 @@
 >
 ---
 
-####About Me
->I am a student,
->finished 12th grade Computer Science
->I am an intermediate in python and C++
+#### About Me
+> I am a student,
+> finished 12th grade Computer Science
+> I am an intermediate in python and C++
 
 ---
 
