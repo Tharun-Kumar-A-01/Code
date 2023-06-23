@@ -4,30 +4,30 @@
 
 #### I created this Git repository to learn,
 
->Python
+> Python
 >   > GUI
->   >  Object Oriented programming
+>   > Object Oriented programming
 >
-  SQL
- >  >Data Queriying
- >  > Data handling
- >
->C++
->   >Object Oriented Programming
->   >Data Structures
->   >Vectors
+> SQL
+>  > Data Queriying
+>  > Data handling
 >
-  Java
->   >Object Oriented Programming
+> C++
+>   > Object Oriented Programming
+>   > Data Structures
+>   > Vectors
+>
+> Java
+>   > Object Oriented Programming
 >   
-  Java script
->   >Front End Developer
+> Java script
+>   > Front End Developer
 >   
-  HTML
->   >Web Designing
-  >
-  C#
-   >>Game Development 
+> HTML
+>   > Web Designing
+>
+> C#
+>   > Game Development 
 >
 ---
 
